@@ -1,0 +1,23 @@
+{
+  "name": "raphael.json",
+  "version": "0.0.0",
+  "description": "Raphael.json packaged for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pseudonym117/raphael.json.git"
+  },
+  "keywords": [
+    "raphael",
+    "raphael.json"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pseudonym117/raphael.json/issues"
+  },
+  "homepage": "https://github.com/pseudonym117/raphael.json"
+}
